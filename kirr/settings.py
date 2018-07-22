@@ -25,7 +25,7 @@ SECRET_KEY = '(mq*r9170n_iuapwbkss)ao=krv5ra9et+n)7!oigl&pdw+69r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['urlshort.pythonanywhere.com']
 
 
 # Application definition
